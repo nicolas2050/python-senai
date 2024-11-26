@@ -1,0 +1,5 @@
+print("ola mundo")
+print("gosto de comer")
+print("irei vijar")
+print("odeio a minha faculdade")
+print("te amo unisa")
